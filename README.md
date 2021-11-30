@@ -7,7 +7,7 @@
 	MainActivity.java
 
 
-================================================================================================
+========================================================================================
 
 
 ## Lab 3: Demonstrate adding and removing fragments at run time
@@ -18,5 +18,14 @@
 	Edited MainActivity.java
 
 
-================================================================================================
+========================================================================================
 	
+
+## Lab 4: Develop an app to display a ProgressBar and show a message with AlertDialog
+
+	Modified activity_main.xml: android:progress="80"
+	Insert icon for alert dialog
+	Edited MainActivity.java
+
+
+========================================================================================

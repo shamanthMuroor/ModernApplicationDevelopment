@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         alert.setTitle("Confirm Exit");
         alert.setCancelable(true);
         alert.setMessage("Sure?");
+        alert.setIcon(R.drawable.img);
         alert.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
