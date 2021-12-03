@@ -38,3 +38,14 @@
 
 
 ========================================================================================
+
+
+## Lab 6: Develop an application to send SMS to a particular contact from the Phonebook
+
+	Java Files: MainActivity
+	XML Files: activity_main.xml
+	androidManifest.xml: Give send sms permission
+	Provide permission for sms after installing the app in the mobile settings	
+
+
+========================================================================================
