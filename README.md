@@ -29,3 +29,12 @@
 
 
 ========================================================================================
+
+
+## Lab 5: Implement an application that will create a database with a table of user credentials and create a login portal system
+
+	Java Files: DbHandler, MainActivity, SecondActivity, User
+	Optional: MainActivity: Disabling register button and enabling when key press, Passing values in intents
+
+
+========================================================================================
